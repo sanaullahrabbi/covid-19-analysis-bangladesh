@@ -1,0 +1,32 @@
+Accuracy of SVM classifier on training set: 0.83
+Accuracy of SVM classifier on test set: 0.84
+
+Accuracy of AdaBoost classifier on training set: 1.00
+Accuracy of AdaBoost classifier on test set: 0.85
+
+Accuracy of KMeans classifier on training set: -832.65
+Accuracy of KMeans classifier on test set: -297.03
+
+Accuracy of K-NN classifier on training set: 0.84
+Accuracy of K-NN classifier on test set: 0.82
+
+Accuracy of Decision Tree classifier on training set: 0.86
+Accuracy of Decision Tree classifier on test set: 0.78
+
+Accuracy of Random Forest Tree classifier on training set: 0.73
+Accuracy of Random Forest classifier on test set: 0.74
+
+Accuracy of Naive Bayes classifier on training set: 0.65
+Accuracy of Naive Bayes classifier on test set: 0.67
+
+
+
+
+Technique      Precision    Recall    F1 Score    Accuracy
+-----------  -----------  --------  ----------  ----------
+SVM                84.3      83.78       83.51       83.78
+KNN                83.09     82.43       82.37       82.43
+DT                 79.31     78.38       77.8        78.38
+RF                 74.56     74.32       74.36       74.32
+NB                 71.92     67.12       65.61       67.12
+ADB                85.73     85.14       85.01       85.14
